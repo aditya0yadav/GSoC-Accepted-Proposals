@@ -7,7 +7,7 @@ These entries are still a source of learning, growth, and inspiration — and ma
 **Serial No**: 1  
 **Student**: Aditya Saroha  
 **Organization**: CERN-HSF  
-**Project**: Extending the User Interface for the Constellation Project
+**Project**: Extending the User Interface for the Constellation Project  
 **Proposal**: GSoC 2025 Project Proposal for Extending User Interface_ Constellation.pdf
 
 #### 🏗️ Context
