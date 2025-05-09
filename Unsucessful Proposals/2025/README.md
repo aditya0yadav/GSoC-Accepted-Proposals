@@ -4,10 +4,11 @@ Welcome to the `2025/` folder containing proposals from CodeArena Club members t
 These entries are still a source of learning, growth, and inspiration — and may continue evolving into real-world contributions.
 
 ---
-
+**Serial No.**: 1
 **Student**: Aditya Saroha  
 **Organization**: CERN-HSF  
 **Project**: Extending the User Interface for the Constellation Project
+**Proposal**: GSoC 2025 Project Proposal for Extending User Interface_ Constellation.pdf
 
 #### 🏗️ Context
 Constellation is a visualization tool used within CERN's HEP software ecosystem, but mainly its developed by the DESY. This project aimed to revamp and extend its front-end capabilities to support modular plug-in development and enhance usability for large datasets
