@@ -4,7 +4,7 @@ Welcome to the `2025/` folder containing proposals from CodeArena Club members t
 These entries are still a source of learning, growth, and inspiration — and may continue evolving into real-world contributions.
 
 ---
-**Serial No**: 1
+**Serial No**: 1  
 **Student**: Aditya Saroha  
 **Organization**: CERN-HSF  
 **Project**: Extending the User Interface for the Constellation Project
