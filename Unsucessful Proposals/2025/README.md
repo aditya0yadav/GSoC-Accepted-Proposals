@@ -8,7 +8,7 @@ These entries are still a source of learning, growth, and inspiration — and ma
 **Student**: Aditya Saroha  
 **Organization**: CERN-HSF  
 **Project**: Extending the User Interface for the Constellation Project  
-**Proposal**: GSoC 2025 Project Proposal for Extending User Interface_ Constellation.pdf
+**Proposal Name**: GSoC 2025 Project Proposal for Extending User Interface_ Constellation.pdf
 
 #### 🏗️ Context
 Constellation is a visualization tool used within CERN's HEP software ecosystem, but mainly its developed by the DESY. This project aimed to revamp and extend its front-end capabilities to support modular plug-in development and enhance usability for large datasets
