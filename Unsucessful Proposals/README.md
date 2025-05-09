@@ -2,7 +2,8 @@
 
 | Year | Student Name | Project Title | Org | Proposal Link |
 |------|--------------|----------------|-----|----------------|
-| 2025 | Aditya Saroha | Constellation: Extending the User Interface | CERN-HSF | [View Proposal](./2025/GSoC 2025 Project Proposal for Extending User Interface_ Constellation.pdf) |
+| 2025 | Aditya Saroha | Constellation: Extending the User Interface | CERN-HSF | [View Proposal](./2025/GSoC%202025%20Project%20Proposal%20for%20Extending%20User%20Interface_%20Constellation.pdf)
+ |
 
 > Add your row above by following the same format. Link to the folder where your proposal lives.
 
