@@ -11,7 +11,7 @@
 # 🗃️ Unsuccessful GSoC Proposals
 
 Welcome to the `Unsuccessful Proposals/` folder of CodeArena Club's GSoC repository.  
-This space is dedicated to proposals from our members/college students that, despite not getting selected, represent **real effort, learning, and commitment** to open source.
+This space is dedicated to proposals from our members/college students and students/Engineers from all over the world that, despite not getting selected, represent **real effort, learning, and commitment** to open source.
 
 ## 💡 Why This Folder?
 
