@@ -4,7 +4,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 
 # Further Plans
 
-The plan for now is to gather as much sucessfull and non-sucessfull proposals we can, with proper context and story of the applicant.
+The plan for now is to gather as much sucessfull([src1](https://github.com/SammanSarkar/GSoC_archive_2025) [src2](https://github.com/heilcheng/2025-GSoC-Proposal-Selected)) and non-sucessfull proposals we can, with proper context and story of the applicant.
 
 ---
 
